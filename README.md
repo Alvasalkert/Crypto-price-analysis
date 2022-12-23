@@ -27,6 +27,7 @@ displaying the potential risk and rewards in a readable visualization, collectiv
 and individually.
 
 Process
+
 pip install yfinance - You need to install Yfinance to run this code
 
 Import the API yfinance 
